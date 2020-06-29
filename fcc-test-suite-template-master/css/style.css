@@ -23,6 +23,12 @@ body{
 a{
     color: darkred;
 }
+a:hover {
+    color: hotpink;
+}
+a:viseted {
+    color: green;
+}
 
 h1{
     font-size: 5em;
